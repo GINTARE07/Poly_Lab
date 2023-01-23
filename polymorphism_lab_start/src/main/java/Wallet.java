@@ -8,7 +8,6 @@ public class Wallet {
         this.name = name;
         this.itemsInWallet = new ArrayList<IScan>();
     }
-
     public String getName() {
         return name;
     }
